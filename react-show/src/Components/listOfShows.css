@@ -1,0 +1,20 @@
+.header {
+    background-color: rgb(14, 14, 31);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.input {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.show {
+    display: inline-block;
+}
