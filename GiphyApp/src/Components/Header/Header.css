@@ -1,0 +1,13 @@
+.Header__header {
+    background-color: rgb(70, 70, 253);
+    color: white;
+    height: 60px;
+    font-size: 35;
+    font-style: oblique;
+}
+
+.Header__h3 {
+    padding-top: 18px;
+    padding-left: 70px;
+    padding-bottom: 3px;
+}

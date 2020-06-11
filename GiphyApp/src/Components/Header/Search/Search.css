@@ -1,0 +1,29 @@
+.Search__h2 {
+    text-align: center;
+    color: rgb(95, 93, 93);
+    font-size: 38px;
+    padding-top: 5px;
+    font-style: oblique;
+}
+
+.Search__input {
+    width: 80%;
+    height: 30px;
+    border-color: rgb(70, 70, 253);
+    border-width: 1px;
+    margin-left: 115px;
+}
+
+.Search__list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 20px auto;
+    justify-content: space-around;
+}
+
+.img {
+    width: 30%;
+    margin-top: 5px;
+    border: solid 15px lightgrey;
+}
