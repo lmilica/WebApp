@@ -1,0 +1,15 @@
+.Home__nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background-color: rgb(110, 110, 241);
+
+}
+.Home__links{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
