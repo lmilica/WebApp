@@ -1,0 +1,13 @@
+.Character__image {
+  padding: 20px;
+}
+.Title__btn {
+  text-align: center;
+  background-color: white;
+  margin: 20px;
+  padding: 15px;
+
+}
+button:hover {
+  background-color: green;
+}
